@@ -47,3 +47,4 @@
   `git checkout dev` 切换到dev分支
   `git checkout master` 切换到主分支 master中
   `git merge dev` 将dev 合并到master
+  `git branch -d dev` 删除dev分支
