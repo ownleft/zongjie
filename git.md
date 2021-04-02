@@ -22,4 +22,4 @@
   git commit -m "这是说明"
 
 5. 查看状态
-
+  - git status
