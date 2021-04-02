@@ -45,3 +45,5 @@
   `git branch dev` 创建dev分支
   `git branch` 查看分支
   `git checkout dev` 切换到dev分支
+  `git checkout master` 切换到主分支 master中
+  `git merge dev` 将dev 合并到master
