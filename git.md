@@ -46,5 +46,13 @@
   `git branch` 查看分支
   `git checkout dev` 切换到dev分支
 
+  `git merge dev` 合并分支必须在主分支中进行操作 合并
+  `git branch -d dev` 删除
+  
+  合并冲突，需要手动处理，处理后还需要再次提交
+
+11.github中创建从仓库 然后上传到github中
+
+  - git
 
   
