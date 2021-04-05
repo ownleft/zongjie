@@ -53,6 +53,6 @@
 
 11.github中创建从仓库 然后上传到github中
 
-  - git
+  - git https://gitee.com/zhang-jixing/myproject.git 
 
   
