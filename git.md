@@ -53,6 +53,9 @@
 
 11.github中创建从仓库 然后上传到github中
 
-  - git https://gitee.com/zhang-jixing/myproject.git 
+  - git push https://gitee.com/zhang-jixing/myproject.git  
+
+12. 
+    git push  地址  提交的分支
 
   
